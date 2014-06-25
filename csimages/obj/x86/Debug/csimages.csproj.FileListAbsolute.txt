@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\bin\Debug\csimages.exe.config
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\bin\Debug\csimages.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\bin\Debug\csimages.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\bin\Debug\af\csimages.resources.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.BatchForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.HistoForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.Form1.af.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\af\csimages.resources.dll
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\csimages\csimages\obj\x86\Debug\csimages.csprojResolveAssemblyReference.cache
